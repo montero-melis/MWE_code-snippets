@@ -41,7 +41,6 @@ fit_poi_glmm <- function(n_sims = 3) {
       count ~ 1 + Condition + (1 | Subj) + (1 + Condition | Item),
       data = ., family = "poisson"))
   fitted
-  # simulated_datasets
 }
 
 # This issues a failure-to-converge warning
