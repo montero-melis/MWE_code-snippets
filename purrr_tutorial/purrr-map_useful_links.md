@@ -1,6 +1,9 @@
 Useful links for purrr::map etc
 ===============================
 
+R for data science -- Chapter on Iteration (a great conceptual introduction!)
+https://r4ds.had.co.nz/iteration.html
+
 purrr tutorial by Jenny Brian:
 https://jennybc.github.io/purrr-tutorial/index.html
 
